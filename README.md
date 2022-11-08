@@ -1,2 +1,2 @@
-# pattern-recognision
+# Pattern Recognision
 Naive Bayesian Classifier
